@@ -1,34 +1,124 @@
+<h1 align="center">Hey 👋, I'm Afsal Rahman</h1>
+<h3 align="center">Crafting Digital Experiences, One Line of Code at a Time.</h3>
 
-<h1 align="center">Hi 👋, I'm Afsal Rahman M</h1>
-<h3 align="center">A passionate MERN Stack developer from Kerala\India.</h3>
- 
-<img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afsalrhm&label=Profile%20views&color=0e75b6&style=flat" alt="afsalrhm" /> </p>
-
-- 🔭 I’m currently working as a **Freelance**
-
-- 🌱 I’m currently learning **Microservices**
-
-- 📝 I Occasionally write articles on [https://medium.com/@afsalrahmanm25](https://medium.com/@afsalrahmanm25)
-
-- 💬 Ask me about **Javascript, React, Mongo DB**
-
-- 📫 How to reach me **afsalrahmanm25@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afsalrahmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsal rahman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25554245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25554245" height="30" width="40" /></a>
-<a href="https://medium.com/@afsalrahmanm25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afsalrahmanm25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/afsalrahmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afsalrahmanm" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=I+build+impactful+apps+for+the+web.;TypeScript+is+my+weapon+of+choice.;Building+scalable+systems+with+Node+%2B+React.;I+love+clean+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsalrhm&show_icons=true&locale=en&layout=compact" alt="afsalrhm" /></p>
+🔭 Currently Building: **LostLink – a cutting-edge lost & found platform.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsalrhm&show_icons=true&locale=en" alt="afsalrhm" /></p>
+🌱 Deep Diving Into: **Advanced DSA and Cloud Microservices architectures.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsalrhm&" alt="afsalrhm" /></p>
+👯 Seeking Collaborators: **Open to contributing to impactful open-source projects.**
+
+💬 Ask Me Anything About: **Javascript, React, Node.js, MongoDB, Microservices.**
+
+📫 Reach Me: afsalrahmanm25@gmail.com
+
+⚡ Fun Fact: My debugging sessions are powered by the allure of dark mode 🌑.
+
+💻 Tech Stack
+My toolkit includes a diverse range of technologies, allowing me to tackle challenges across the full stack:
+
+<h3 align="center">🌿 My Core Tech Stack</h3>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+</p>
+
+<!-- GitHub Dashboard Layout -->
+<h2 align="center">📊 GitHub Insights</h2>
+<p align="center"><em>My coding journey beautifully visualized below</em></p>
+
+<!-- Top Row: Large GitHub Stats + Medium Trophy Board -->
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AfsalRHM&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=AfsalRHM&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<!-- Bottom Row: Compact Top Languages + Streak + Contribution Graph -->
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsalRHM&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AfsalRHM&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">🤝 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/afsalrahmanm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Afsal Rahman" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/25554245" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - Afsal" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@afsalrahmanm25" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Blog - Afsal" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/afsalrahmanm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Afsal" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🌟 Let's Collaborate!</h3>
+<p align="center">If you like what I do, connect or collaborate with me on something impactful 🤝</p>
+
+<p align="center">
+  <a href="https://github.com/AfsalRHM?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/AfsalRHM?color=blueviolet&label=Give%20a%20Star&style=for-the-badge" alt="Give a Star Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:afsalrahmanm25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>I build, I break, I learn – then I build it better.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afsalrhm&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Afsal's Visitor Counter" />
+</p>
