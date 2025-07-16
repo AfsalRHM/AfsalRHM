@@ -47,8 +47,8 @@ My toolkit includes a diverse range of technologies, allowing me to tackle chall
 <!-- Top Row: Large GitHub Stats + Medium Trophy Board -->
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AfsalRHM&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=AfsalRHM&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=AfsalRHM&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
 <!-- Bottom Row: Compact Top Languages + Streak -->
 <p align="center">
