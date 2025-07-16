@@ -19,51 +19,25 @@
 
 ⚡ Fun Fact: My debugging sessions are powered by the allure of dark mode 🌑.
 
-💻 Tech Stack
+💻 Tech Stack  
 My toolkit includes a diverse range of technologies, allowing me to tackle challenges across the full stack:
 
 <h3 align="center">🌿 My Core Tech Stack</h3>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 </p>
 
 <!-- GitHub Dashboard Layout -->
@@ -76,7 +50,7 @@ My toolkit includes a diverse range of technologies, allowing me to tackle chall
   <img height="200em" src="https://github-profile-trophy.vercel.app/?username=AfsalRHM&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<!-- Bottom Row: Compact Top Languages + Streak + Contribution Graph -->
+<!-- Bottom Row: Compact Top Languages + Streak -->
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsalRHM&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages" />
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AfsalRHM&theme=onedark&hide_border=true" alt="GitHub Streak" />
@@ -85,21 +59,13 @@ My toolkit includes a diverse range of technologies, allowing me to tackle chall
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/afsalrahmanm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Afsal Rahman" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/afsalrahmanm" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Afsal Rahman" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/25554245" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - Afsal" height="30" width="40" />
-  </a>
+  <a href="https://stackoverflow.com/users/25554245" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - Afsal" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@afsalrahmanm25" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Blog - Afsal" height="30" width="40" />
-  </a>
+  <a href="https://medium.com/@afsalrahmanm25" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Blog - Afsal" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/afsalrahmanm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Afsal" height="30" width="40" />
-  </a>
+  <a href="https://www.leetcode.com/afsalrahmanm" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Afsal" height="30" width="40" /></a>
 </p>
 
 ---
@@ -108,11 +74,11 @@ My toolkit includes a diverse range of technologies, allowing me to tackle chall
 <p align="center">If you like what I do, connect or collaborate with me on something impactful 🤝</p>
 
 <p align="center">
-  <a href="https://github.com/AfsalRHM?tab=repositories" target="_blank">
+  <a href="https://github.com/AfsalRHM?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/stars/AfsalRHM?color=blueviolet&label=Give%20a%20Star&style=for-the-badge" alt="Give a Star Badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:afsalrahmanm25@gmail.com" target="_blank">
+  <a href="mailto:afsalrahmanm25@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
